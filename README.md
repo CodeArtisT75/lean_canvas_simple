@@ -4,7 +4,7 @@ this project is built with express.js (backend) and vue.js (frontend). backend a
 
 first, install dependencies in both projects.
 
-then, create and fill `.env`.
+then, create `.env`, copy content from `.env.example.` and fill keys.
 
 to start developing you can use:
 ```bash
